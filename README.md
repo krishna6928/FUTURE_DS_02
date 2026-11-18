@@ -1,4 +1,4 @@
-# Customer Retention & Churn Analysis
+# Telco Customer Churn-Analysis
 
 ## Project Overview
 This project analyzes customer retention and churn using the Telco Customer Churn dataset. It explores customer behavior, identifies churn patterns, and presents business insights through an interactive Power BI dashboard.
