@@ -1,4 +1,4 @@
-# Telco Customer Churn-Analysis
+# Customer Retention & Churn Analysis
 
 ## Project Overview
 This project analyzes customer retention and churn using the Telco Customer Churn dataset. It explores customer behavior, identifies churn patterns, and presents business insights through an interactive Power BI dashboard.
@@ -36,16 +36,6 @@ This project analyzes customer retention and churn using the Telco Customer Chur
 - Churn by Internet Service
 - Average Monthly Charges by Churn
 - Average Total Charges by Customer Status
-
-## Repository Structure
-```text
-FUTURE_DS_02/
-├── Customer_Churn_Cleaning.ipynb
-├── cleaned_customer_churn.csv
-├── Customer_Churn_Analysis.pbix
-├── Customer_Churn_Dashboard.png
-└── README.md
-```
 
 ## Key Findings
 The dashboard examines customer churn patterns across contract types, payment methods, internet services, tenure, and charges. Specific findings should be confirmed from the completed analysis.
